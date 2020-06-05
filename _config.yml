@@ -3,13 +3,6 @@
 # -----------------------------------------------------------------------------
 name: Etienne Goffinet
 email: etienne.goffinet@lipn.univ-paris13.fr
-description: > # this means to ignore newlines until "url:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-footer_text: >
-  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-
 url: # should be empty
 baseurl:  # should be empty
 last_updated: # leave blank if you don't want to display last updated
@@ -40,12 +33,6 @@ contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
-
-# -----------------------------------------------------------------------------
-# Blog
-# -----------------------------------------------------------------------------
-blog_name: al-folio
-blog_description: a simple whitespace theme for academics
 
 # Pagination
 paginate: 4
