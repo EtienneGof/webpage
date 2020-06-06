@@ -4,7 +4,7 @@
 name: Etienne Goffinet
 email: etienne.goffinet@lipn.univ-paris13.fr
 url: # should be empty
-baseurl: /webpage # should be empty
+baseurl: # should be empty
 last_updated: # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
