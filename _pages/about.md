@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: Etienne <strong>Goffinet</strong>
-description: etienne.goffinet@lipn.univ-paris13.fr
+description: etienne.goffinet [at] lipn.univ-paris13.fr
 
 profile:
   align: right 
